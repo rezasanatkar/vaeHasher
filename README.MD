@@ -1,3 +1,4 @@
+This repository contains an implementation of variational autoencoders with the focus of their application as a binary hasher. 
 encoder.py: this module contians the variational encoder implemetaion and only could be used for inference.
 decoder.py: this module contaings the variational decoder implementaion and only could be used for inference.
 vae_gaussian.py: this module contains both the variational decoder and encoder, and only could be used to train joinly the decoder and 
